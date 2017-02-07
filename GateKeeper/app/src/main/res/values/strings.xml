@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gate Keeper</string>
+    <string name="myname">Xander Cage</string>
+
+    <string-array name="name">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
